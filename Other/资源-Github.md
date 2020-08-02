@@ -338,8 +338,6 @@ https://github.com/topics/leetcode-python
     * yangshun/front-end-interview-handbook: 🕸 Almost complete answers to &quot;Front-end Job Interview Questions&quot; which you can use to interview potential candidates, test yourself or completely ignore
 * https://github.com/ProtoTeam/blog
     * ProtoTeam/blog: 蚂蚁数据体验技术团队的文章仓库
-* https://github.com/CyC2018/CS-Notes
-    * CyC2018/CS-Notes: 技术面试必备基础知识、Leetcode、计算机操作系统、计算机网络、系统设计、Java、Python、C++
 * https://github.com/30-seconds/30-seconds-of-code
     * 30-seconds/30-seconds-of-code: Short JavaScript code snippets for all your development needs
 * https://github.com/nswbmw/node-in-debugging
@@ -606,8 +604,6 @@ https://github.com/topics/leetcode-python
     * villeheikkila/fullstackopen: React, Node, MongoDB, REST and GraphQL exercises for Full Stack Open 2019 course.
 * https://github.com/yuzu-emu/yuzu
     * yuzu-emu/yuzu: Nintendo Switch Emulator
-* https://github.com/wangdoc/bash-tutorial
-    * wangdoc/bash-tutorial: Bash 教程
 * https://wangdoc.com/bash/
     * Bash 脚本教程 - 网道
 * https://github.com/yeecode
